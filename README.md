@@ -1,4 +1,4 @@
-# Wallet App with React
+# Wallet App with JetPackCompose
 
 Meet the coolest UI buddy for your credit cards! Our app, created with Kotlin and Jetpack Compose, brings a delightful touch to managing your credit card and balance.
 While it may not do the heavy lifting, it's the friendliest face you'll see when checking transactions, monitoring credit limits, and keeping things visually awesome. 
@@ -27,7 +27,7 @@ To get started with the wallet app, follow these steps:
 
 ### Dependencies
 
-Make sure you have Node.js and npm installed on your machine.
+Make sure you have android studio install on your pc .
 
 ### Installation
 
